@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+kubernetes
+requests
+streamlit
+SQLAlchemy
+psycopg2-binary
+PyYAML
